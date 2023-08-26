@@ -1,0 +1,102 @@
+[
+  {
+    "Name": "Mathematics",
+    "Description": "Explore the world of numbers, equations, and problem-solving. Learn concepts like algebra, geometry, and calculus.",
+    "PictureUrl": "https://example.com/mathematics.jpg"
+  },
+  {
+    "Name": "History",
+    "Description": "Delve into the past to understand the events, cultures, and people that shaped our world. Discover ancient civilizations, wars, and revolutions.",
+    "PictureUrl": "https://example.com/history.jpg"
+  },
+  {
+    "Name": "Biology",
+    "Description": "Study living organisms and their interactions. Learn about cells, genetics, evolution, and ecosystems.",
+    "PictureUrl": "https://example.com/biology.jpg"
+  },
+  {
+    "Name": "Chemistry",
+    "Description": "Explore the properties, composition, and reactions of matter. Discover elements, compounds, and chemical reactions.",
+    "PictureUrl": "https://example.com/chemistry.jpg"
+  },
+  {
+    "Name": "Physics",
+    "Description": "Uncover the fundamental laws governing the universe. Study motion, energy, forces, and the behavior of matter and light.",
+    "PictureUrl": "https://example.com/physics.jpg"
+  },
+  {
+    "Name": "English Literature",
+    "Description": "Dive into literary works, analyze themes, characters, and narratives. Explore classic and contemporary literature.",
+    "PictureUrl": "https://example.com/literature.jpg"
+  },
+  {
+    "Name": "Computer Science",
+    "Description": "Learn about algorithms, programming, data structures, and software development. Explore the world of technology and innovation.",
+    "PictureUrl": "https://example.com/computer_science.jpg"
+  },
+  {
+    "Name": "Art",
+    "Description": "Express your creativity through various artistic mediums. Study techniques, art history, and different artistic styles.",
+    "PictureUrl": "https://example.com/art.jpg"
+  },
+  {
+    "Name": "Music",
+    "Description": "Discover the world of sound, rhythm, and melody. Study music theory, instruments, and musical composition.",
+    "PictureUrl": "https://example.com/music.jpg"
+  },
+  {
+    "Name": "Physical Education",
+    "Description": "Engage in physical activities and sports to promote health and fitness. Learn about teamwork, sportsmanship, and exercise.",
+    "PictureUrl": "https://example.com/pe.jpg"
+  },
+  {
+    "Name": "Geography",
+    "Description": "Explore the Earth's landscapes, climates, and cultures. Study maps, geographical features, and human-environment interactions.",
+    "PictureUrl": "https://example.com/geography.jpg"
+  },
+  {
+    "Name": "Foreign Languages",
+    "Description": "Learn a new language to communicate with people from different cultures. Study vocabulary, grammar, and conversational skills.",
+    "PictureUrl": "https://example.com/languages.jpg"
+  },
+  {
+    "Name": "Economics",
+    "Description": "Understand how societies allocate resources and make decisions about production and consumption. Study concepts of supply and demand, market structures, and more.",
+    "PictureUrl": "https://example.com/economics.jpg"
+  },
+  {
+    "Name": "Psychology",
+    "Description": "Explore the human mind and behavior. Learn about psychological theories, cognitive processes, and mental health.",
+    "PictureUrl": "https://example.com/psychology.jpg"
+  },
+  {
+    "Name": "Environmental Science",
+    "Description": "Study the interactions between humans and the environment. Learn about sustainability, ecosystems, and environmental issues.",
+    "PictureUrl": "https://example.com/environmental_science.jpg"
+  },
+  {
+    "Name": "Philosophy",
+    "Description": "Engage in philosophical inquiry about fundamental questions of existence, knowledge, ethics, and reality.",
+    "PictureUrl": "https://example.com/philosophy.jpg"
+  },
+  {
+    "Name": "Sociology",
+    "Description": "Examine human society and social interactions. Study topics like culture, social institutions, and societal change.",
+    "PictureUrl": "https://example.com/sociology.jpg"
+  },
+  {
+    "Name": "Health Education",
+    "Description": "Learn about maintaining a healthy lifestyle, making informed health decisions, and understanding the human body.",
+    "PictureUrl": "https://example.com/health_education.jpg"
+  },
+  {
+    "Name": "Drama",
+    "Description": "Immerse yourself in the world of theater and acting. Study scripts, performance techniques, and theatrical history.",
+    "PictureUrl": "https://example.com/drama.jpg"
+  },
+  {
+    "Name": "World Religions",
+    "Description": "Explore different religious beliefs, practices, and traditions from around the world. Learn about cultural and spiritual diversity.",
+    "PictureUrl": "https://example.com/religions.jpg"
+  }
+]

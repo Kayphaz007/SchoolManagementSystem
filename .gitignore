@@ -1,3 +1,43 @@
 .vs/**
 .vscode/**
 store.db
+Backend/appsettings.*
+
+# .NET Core and Visual Studio files
+.vscode/
+.vs/
+bin/
+obj/
+*_ReSharper*/
+*.suo
+*.user
+*.userprefs
+*.vscode
+
+# Compiled C# files
+*.dll
+*.exe
+*.pdb
+*.dll.config
+*.cache
+*.log
+*.vsix
+/.dotnet_toolmanifest
+/.dotnet_tools
+/
+# Local files
+appsettings.Development.json
+appsettings.Production.json
+appsettings.Staging.json
+
+# .NET Core SDK
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# User-specific files
+*.sln.iml
+
+# Visual Studio cache files
+.vscode/
+.vs
