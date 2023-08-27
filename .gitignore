@@ -2,6 +2,7 @@
 .vscode/**
 store.db
 Backend/appsettings.*
+Backend/store.db*
 
 # .NET Core and Visual Studio files
 .vscode/

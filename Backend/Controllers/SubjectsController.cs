@@ -1,27 +1,29 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace Backend;
 
-[ApiController]
-[Route("api/[controller]")]
-public class SubjectsController : ControllerBase
+
+public class SubjectsController : BaseApiController
 {
-    private readonly SchoolContext context;
+    private readonly SchoolContext _context;
+
     public SubjectsController(SchoolContext context)
     {
-        this.context = context;
+        _context = context;
+
 
     }
 
     [HttpGet]
-    public ActionResult<List<Subject>> GetSubjects(){
-        var subjects = context.Subjects.ToList();
-
-        return Ok(subjects);
+    public async Task<ActionResult<List<Subject>>> GetSubjects(){
+        return await _context.Subjects.ToListAsync();
     }
 
     [HttpGet("{id}")]
-    public ActionResult<Subject> GetSubject(int id){
-        return context.Subjects.Find(id);
+    public async Task<ActionResult<Subject>> GetSubject(int id){
+        var subject = await _context.Subjects.FindAsync(id);
+
+        return subject == null ? NotFound(): subject;
     }
 }
